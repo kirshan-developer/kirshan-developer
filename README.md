@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" width="100%" alt="Krishan Rajput Banner" style="border-radius: 15px;"/>
+<img src="./assets/profile-banner.png" width="100%" alt="Kirshan Singh Rajput Banner" style="border-radius: 15px;"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=KRISHAN%20RAJPUT&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20Pakistan%20🇵🇰&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=KIRSHAN%20SINGH%20RAJPUT&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20Pakistan%20🇵🇰&descAlignY=58&descSize=20" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Krishan+Rajput;Full+Stack+Web+Developer;JavaScript+%7C+MERN+Stack+Developer;Frontend+Engineer;Building+Amazing+Projects;Always+Learning+%F0%9F%9A%80;Open+Source+Enthusiast;Welcome+To+My+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Kirshan+Singh+Rajput;Full+Stack+Web+Developer;JavaScript+%7C+MERN+Stack+Developer;Frontend+Engineer;Building+Amazing+Projects;Always+Learning+%F0%9F%9A%80;Open+Source+Enthusiast;Welcome+To+My+GitHub!)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B347FF,100:FF00E4&height=3&width=100%25" width="100%"/>
 
 </div>
 
@@ -37,7 +37,7 @@
 <td width="60%" valign="top">
 
 ```yaml
-Developer:      Krishan Rajput
+Developer:      Kirshan Singh Rajput
 Role:            Full Stack Web Developer (MERN)
 Location:        Pakistan 🇵🇰
 Current Goal:    Become one of the world's best web developers
@@ -76,13 +76,13 @@ const krishan = {
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B347FF,100:FF00E4&height=3&width=100%25" width="100%"/>
 
 ## 🚀 Developer Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=B347FF&text_color=c9d1d9&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=B347FF&fire=FF00E4&currStreakLabel=00F0FF" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=B347FF&fire=FF00E4&currStreakLabel=00F0FF" width="48%"/>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ const krishan = {
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B347FF,100:FF00E4&height=3&width=100%25" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -113,7 +113,7 @@ const krishan = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B347FF,100:FF00E4&height=3&width=100%25" width="100%"/>
 
 ## 💼 Current Project
 
@@ -137,7 +137,7 @@ const krishan = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B347FF,100:FF00E4&height=3&width=100%25" width="100%"/>
 
 ## 🗺️ Learning Roadmap
 
@@ -162,7 +162,7 @@ const krishan = {
 
 I believe great software is built at the intersection of clean engineering and thoughtful design — every pixel and every function should have a reason to exist.
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B347FF,100:FF00E4&height=3&width=100%25" width="100%"/>
 
 ## 🖥️ Coding Setup
 
@@ -190,7 +190,7 @@ Font:        Fira Code
 
 > ⚙️ Setup note: Snake animation needs a GitHub Actions workflow in your profile repo — see setup steps below.
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B347FF,100:FF00E4&height=3&width=100%25" width="100%"/>
 
 ## 📫 Let's Connect
 
