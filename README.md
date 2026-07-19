@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="./assets/profile-banner.png" width="100%" alt="Kirshan Singh Rajput Banner" style="border-radius: 15px;"/>
-
-</div>
 
 <div align="center">
 
