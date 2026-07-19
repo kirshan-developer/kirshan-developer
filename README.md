@@ -1,321 +1,209 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+KRISHAN+RAJPUT;Full+Stack+Web+Developer;JavaScript+Developer;React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Welcome+To+My+GitHub+Profile" />
-
-<img src="YOUR_BANNER_LINK_HERE" width="100%" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kirshan-developer&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/kirshan-developer?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/kirshan-developer?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge"/>
+<img src="./assets/profile-banner.png" width="100%" alt="Krishan Rajput Banner" style="border-radius: 15px;"/>
 
 </div>
 
----
+<div align="center">
 
-# 💎 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=KRISHAN%20RAJPUT&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20Pakistan%20🇵🇰&descAlignY=58&descSize=20" width="100%"/>
 
-```yaml
-Name: KRISHAN RAJPUT
+</div>
 
-Role:
-   Full Stack Web Developer
+<div align="center">
 
-Country:
-   Pakistan 🇵🇰
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Krishan+Rajput;Full+Stack+Web+Developer;JavaScript+%7C+MERN+Stack+Developer;Frontend+Engineer;Building+Amazing+Projects;Always+Learning+%F0%9F%9A%80;Open+Source+Enthusiast;Welcome+To+My+GitHub!)](https://git.io/typing-svg)
 
-Learning:
-   JavaScript
-   React
-   Node.js
-   Backend
-
-Current Project:
-   AI Studio Pro
-
-Dream:
-   Become One Of The Best Developers
-```
-
----
-
-# 🚀 Tech Stack
+</div>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&perline=8"/>
-
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-00F0FF?style=for-the-badge&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/Location-Pakistan-B347FF?style=for-the-badge&labelColor=0f0c29"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=FF00E4&labelColor=0f0c29&label=PROFILE+VIEWS"/>
 </p>
 
----
-
-# ⚡ Currently Working On
-
-🟢 AI Studio Pro
-
-🟢 Modern Web Applications
-
-🟢 Responsive UI
-
-🟢 JavaScript Projects
-
-🟢 React Learning
-
----
-
-# 🌟 Quote
-
-> **"Code. Learn. Build. Repeat."**
-
----
-
 <div align="center">
 
-## 🌈 Keep Scrolling 👇
-
-</div>
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kirshan-developer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=kirshan-developer&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
 </div>
 
----
+<br/>
 
-# 💻 Most Used Languages
+## 👨‍💻 About Me
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirshan-developer&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirshan-developer&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kirshan-developer&theme=tokyonight&margin-w=12&margin-h=12&no-frame=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🚀 Developer Dashboard
-
-<table align="center">
-
+<table>
 <tr>
+<td width="60%" valign="top">
 
-<td align="center">
-
-💻 **Role**
-
-<br>
-
-Full Stack Web Developer
-
-</td>
-
-<td align="center">
-
-🔥 **Learning**
-
-<br>
-
-JavaScript • React • Node.js
+```yaml
+Developer:      Krishan Rajput
+Role:            Full Stack Web Developer (MERN)
+Location:        Pakistan 🇵🇰
+Current Goal:    Become one of the world's best web developers
+Current Project: AI Studio Pro
+Currently Learning:  Advanced React, Node.js, System Design
+Fun Fact:        I turn coffee ☕ into code 💻
+Reach Me At:     Open to freelance & collaboration
+```
 
 </td>
+<td width="40%" valign="top">
 
-<td align="center">
-
-🚀 **Project**
-
-<br>
-
-AI Studio Pro
+```
+const krishan = {
+  code: ["JavaScript", "React"],
+  askMeAbout: [
+    "web dev",
+    "MERN stack",
+    "UI/UX"
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+      css: ["Tailwind"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express"]
+    },
+    databases: ["MongoDB"]
+  },
+  currentFocus: "AI Studio Pro 🚀"
+};
+```
 
 </td>
-
 </tr>
-
-<tr>
-
-<td align="center">
-
-🌍 **Country**
-
-<br>
-
-Pakistan 🇵🇰
-
-</td>
-
-<td align="center">
-
-⚡ **Editor**
-
-<br>
-
-VS Code
-
-</td>
-
-<td align="center">
-
-🎯 **Goal**
-
-<br>
-
-Top Developer
-
-</td>
-
-</tr>
-
 </table>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
-# 🧰 Tools I Use
+## 🚀 Developer Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=B347FF&text_color=c9d1d9&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=B347FF&fire=FF00E4&currStreakLabel=00F0FF" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=B347FF&point=FF00E4" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind&theme=dark" />
+</p>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm,nodejs,react,html,css,js,figma&perline=5"/>
+| Frontend | Backend | Tools | Database |
+|:---:|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | | | |
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
-# 🌟 Favorite Quote
+## 💼 Current Project
 
-<div align="center">
+<table>
+<tr>
+<td width="100%">
 
-> **"Great software is built one commit at a time."**
+### 🤖 AI Studio Pro
+> An AI-powered creative studio built from the ground up — blending modern frontend engineering with intelligent tooling.
 
-</div>
+`Status: In Active Development` &nbsp;•&nbsp; `Stack: HTML • CSS • JavaScript`
 
----
+</td>
+</tr>
+</table>
 
-<div align="center">
+## 📌 Featured Projects
 
-## ⭐ Keep Scrolling... More Premium Content Below ⭐
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"/>
+</p>
 
-</div>
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
-# 🚀 Current Mission
+## 🗺️ Learning Roadmap
 
-```text
-🎯 Become a Professional Full Stack Web Developer
-💻 Build Modern & Responsive Web Applications
-🤖 Learn AI & Advanced JavaScript
-🌍 Contribute to Open Source Projects
-📚 Learn Something New Every Day
+- ✅ HTML, CSS, JavaScript Fundamentals
+- ✅ React.js
+- 🔄 Node.js & Express (Deepening)
+- 🔄 MongoDB & Database Design
+- ⏳ System Design Basics
+- ⏳ TypeScript
+- ⏳ Cloud Deployment (AWS / Vercel)
+
+## 🎯 Current Goals
+
+- 🌍 Become a top-rated freelance developer internationally
+- 🧠 Master the MERN stack end-to-end
+- 🚀 Ship and monetize AI Studio Pro
+- 📈 Build a strong open-source presence
+
+## 💡 Developer Philosophy
+
+> "Code with purpose, design with passion, and never stop learning."
+
+I believe great software is built at the intersection of clean engineering and thoughtful design — every pixel and every function should have a reason to exist.
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
+
+## 🖥️ Coding Setup
+
+<table>
+<tr>
+<td>
+
+```
+Editor:      VS Code
+Theme:       Tokyo Night
+Terminal:    Git Bash
+OS:          Windows
+Font:        Fira Code
 ```
 
----
+</td>
+</tr>
+</table>
 
-# 📌 Featured Project
+## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 
-| 🚀 Project | 🛠️ Tech | 📖 Status |
-|------------|----------|-----------|
-| AI Studio Pro | HTML • CSS • JavaScript | 🚧 In Progress |
+> ⚙️ Setup note: Snake animation needs a GitHub Actions workflow in your profile repo — see setup steps below.
 
-</div>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
----
+## 📫 Let's Connect
 
-# 🗺️ 2026 Learning Roadmap
-
-```text
-✅ HTML
-✅ CSS
-✅ JavaScript
-🟡 React
-🟡 Node.js
-⬜ Express.js
-⬜ MongoDB
-⬜ TypeScript
-⬜ Next.js
-⬜ Full Stack Projects
-```
-
----
-
-# 💡 Fun Facts
-
-- 💻 I enjoy building web applications.
-- 🌱 I keep learning new technologies.
-- 🚀 I like turning ideas into real projects.
-- 🎯 My goal is to become a professional developer.
-
----
-
-# 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/YOUR-FIVERR"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="https://youtube.com/@InterestingVideos922"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kirshan-developer">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💻 Daily Motivation
-
-<div align="center">
-
-> **"Keep Building. Keep Learning. Keep Growing."**
-
-</div>
-
----
-
-# ❤️ Thanks For Visiting
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6C63FF&height=140&section=footer&text=Thanks%20For%20Visiting!&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=25&fontColor=00F0FF&animation=fadeIn"/>
 
 </div>
